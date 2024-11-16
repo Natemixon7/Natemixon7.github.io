@@ -27,13 +27,13 @@ Double-click the HL7_Family_Tree_Converter_v1.0.exe file
 [User Manual](pdf/HL7FamilyTreeConverterUserGuide.pdf)
 
 ![screenshot](images/HL7Images/PostFileUpload.png)  
-Fig 1. The launch screen
+Fig 1. Menu after file upload
 
 ![screenshot](images/HL7Images/AddPatient.png)  
-Fig 2. Example output after input is processed.
+Fig 2. Add patient menu
 
 ![screenshot](images/HL7Images/Export.png)  
-Fig 3. Feedback when an error occurs.
+Fig 3. Export menu
 
 ## 3. Additional Considerations
 
