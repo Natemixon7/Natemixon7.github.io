@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [HL7 Family Converter | CSCI 495](HL7FamilyConverter)
 
-![Project 1 Thumbnail Name](images/HL7Images/MainMenu.png)
+![Project 1 Thumbnail Name](images/HL7Images/PostFileUpload.png)
 
 ---
 ### [CrowdControl | CSCI 499](CrowdControl)
