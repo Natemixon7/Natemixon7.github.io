@@ -18,7 +18,7 @@ A tool that can read HL7/XML files that represent patient data that will visuali
 ```bash
 Have XML/HL7 files ready
 Download the folder to your computer
-Unzip if necessary
+Unzip the folder
 Double-click the HL7_Family_Tree_Converter_v1.0.exe file
 ```
 
