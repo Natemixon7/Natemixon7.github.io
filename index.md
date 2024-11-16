@@ -7,12 +7,12 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:NRMixon@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [HL7 Family Converter | CSCI 495](/MDs/HL7FamilyConverter)
+### [HL7 Family Converter | CSCI 495](/MDs/HL7FamilyConverter.md)
 
 ![Project 1 Thumbnail Name](images/HL7Images/PostFileUpload.png)
 
 ---
-### [CrowdControl | CSCI 499](/MDs/CrowdControl)
+### [CrowdControl | CSCI 499](/MDs/CrowdControl.md)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
