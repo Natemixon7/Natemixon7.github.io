@@ -31,17 +31,17 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Insider Betrayal and Vulnerable Government](/pdf/sample_presentation.pdf)
+### [Insider Betrayal and Vulnerable Government](/pdf/Snowden.pdf)
 
 -   **Class:** CSCI 405
 -   **Grade:** A
 
-### [Who Can Write Code](/pdf/sample_presentation.pdf)
+### [Who Can Write Code](/pdf/WhoCanWriteCode.pdf)
 
 -   **Class:** CSCI 325
 -   **Grade:** A+
 
-### [Moral Duty of Computer Science Professional](/pdf/sample_presentation.pdf)
+### [Moral Duty of Computer Science Professional](/pdf/MoralDuty.pdf)
 
 -   **Class:** CSCI 315
 -   **Grade:** B+
@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [CrowdControl](/pdf/sample_presentation.pdf)
+### [CrowdControl](/pdf/CrowdControl.pdf)
 
 - **Class:** CSCI 499
 - **Grade:** A
 
 
-### [Advanced Calculator 3000](/pdf/sample_presentation.pdf)
+### [Advanced Calculator 3000](https://youtu.be/Y4LqBPU5FbU)
 
 - **Class:** CSCI 325
 - **Grade:** A
