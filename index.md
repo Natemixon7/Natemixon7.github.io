@@ -17,7 +17,7 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 1 or 2 Data Structures | CSCI 315](project1)
+### [Large Map | CSCI 315](project1)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
