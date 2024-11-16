@@ -15,14 +15,10 @@ A tool that can read HL7/XML files that represent patient data that will visuali
 
 ## How to run the program
 
-How to run the project.
-
 ```bash
 Have XML/HL7 files ready
 Double-click the HL7_Family_Tree_Converter_v1.0.exe file
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
