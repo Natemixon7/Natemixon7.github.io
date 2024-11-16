@@ -12,7 +12,7 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/HL7Images/PostFileUpload.png)
 
 ---
-### [CrowdControl | CSCI 499](CrowdControl)
+### [CrowdControl | CSCI 499](MDs/CrowdControl)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
