@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Large Map | CSCI 315](LargeMap)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/MapImages/Code.png)
 
 ---
 ### [Advanced Calculator 3000 | CSCI 325](AdvancedCalculator3000)
