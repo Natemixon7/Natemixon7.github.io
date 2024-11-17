@@ -1,47 +1,54 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+CrowdControl
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class:** CSCI 499
+-   **Grade:** A
+-   **Language(s):** Python, HTML, PHP, CSS, MySQL, JavaScript
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:NRMixon@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+CrowdControl is a website backed by a database that stores prices for computer parts scraped from the web. This database is updated every 24 hours using a script so that the website's prices are always up to date. Customers are able to switch out necessary parts using dropdowns to get the best and most affordable computer for them. 
 
 ## How to compile and run the program
 
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./project
-python setup.py
+Need to have Laravel set up on a computer
+cd pcbuilder
+php artisan serve
+npm run dev
+Go to localhost IP in default browser
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
 Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+The welcome page of the website features a button that directs users to customize their PC as well as login and register options in the top right (see Fig 1). The login page allows users to log in using a valid email and password found within the database (see Fig 2). If users have not created an account before they can register by clicking the green button and this will allow them to create an account that will be stored in the database (see Fig 3). Once users are logged in, they will be redirected to the customization page where they can select the parts that they want and then submit at the bottom (see Fig 4). After all the parts are selected the user submits their order they will then see the checkout page to show the items ordered and the total price of the PC (see Fig 5).
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/CCImages/WelcomePage.png)  
+Fig 1. Home Page
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/CCImages/LoginPage.png)  
+Fig 2. Login Page
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/CCImages/RegisterPage.png)  
+Fig 3. Register Page
+
+![screenshot](images/CCImages/CustomizePage.png)  
+Fig 4. Customization Page
+
+![screenshot](images/CCImages/CheckoutPage.png)  
+Fig 5. Checkout Page
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Users must be logged in to customize and place an order for a PC. There is a forgot password option available on the login page that will email the user a password reset. All parts are web-scraped from Amazon and/or New Egg. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
