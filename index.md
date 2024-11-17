@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [CrowdControl | CSCI 499](CrowdControl)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/CCImages/WelcomePage.png)
 
 ---
 ### [Large Map | CSCI 315](LargeMap)
