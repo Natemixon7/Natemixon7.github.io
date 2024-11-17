@@ -27,8 +27,6 @@ Go to localhost IP in default browser
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
 The welcome page of the website features a button that directs users to customize their PC as well as login and register options in the top right (see Fig 1). The login page allows users to log in using a valid email and password found within the database (see Fig 2). If users have not created an account before they can register by clicking the green button and this will allow them to create an account that will be stored in the database (see Fig 3). Once users are logged in, they will be redirected to the customization page where they can select the parts that they want and then submit at the bottom (see Fig 4). After all the parts are selected the user submits their order they will then see the checkout page to show the items ordered and the total price of the PC (see Fig 5).
 
 ![screenshot](images/CCImages/WelcomePage.png)  
