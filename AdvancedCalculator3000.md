@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Advanced Calculator 3000
 ===============
 
 -   **Class:** CSCI 325
