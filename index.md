@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Advanced Calculator 3000 | CSCI 325](AdvancedCalculator3000)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/CalcImages/Complete.png)
 
 ---
 
