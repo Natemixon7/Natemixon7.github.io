@@ -5,29 +5,29 @@ CrowdControl
 
 -   **Class:** CSCI 499
 -   **Grade:** A
--   **Language(s):** Python, HTML, PHP, CSS, MySQL, JavaScript
+-   **Language(s):** Python, HTML, PHP, CSS(Tailwind), MySQL, JavaScript
 -   **Source Code Repository:** [Natemixon7/CrowdControl](https://github.com/Natemixon7/CrowdControl)  
     (Please [email me](mailto:NRMixon@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-CrowdControl is a website backed by a database that stores prices for computer parts scraped from the web. This database is updated every 24 hours using a script so that the website's prices are always up to date. Customers are able to switch out necessary parts using dropdowns to get the best and most affordable computer for them. 
+CrowdControl is a web platform supported by a database that maintains up-to-date pricing information for computer components sourced from the web. The database is refreshed every 24 hours through an automated script, ensuring accurate and current pricing. The integrated web scraper also verifies compatibility between components, enabling users to configure a fully functional PC. Customers can customize their builds by selecting alternative parts from dropdown menus, helping them optimize performance and cost. Additionally, the website offers account registration and login features to enhance user experience and convenience.
 
 ## How to compile and run the program
-
-How to compile (if applicable) and run the project.
 
 ```bash
 Need to have Laravel set up on a computer
 cd pcbuilder
 php artisan serve
 npm run dev
-Go to localhost IP in default browser
+Go to localhost IP in your default browser
 ```
 
 ## UI Design
 
-The welcome page of the website features a button that directs users to customize their PC as well as login and register options in the top right (see Fig 1). The login page allows users to log in using a valid email and password found within the database (see Fig 2). If users have not created an account before they can register by clicking the green button and this will allow them to create an account that will be stored in the database (see Fig 3). Once users are logged in, they will be redirected to the customization page where they can select the parts that they want and then submit at the bottom (see Fig 4). After all the parts are selected the user submits their order they will then see the checkout page to show the items ordered and the total price of the PC (see Fig 5).
+The website's welcome page features a prominent button directing users to customize their PC, along with login and registration options conveniently located in the top-right corner (see Fig. 1). The login page allows users to access their accounts by entering a valid email and password stored in the database (see Fig. 2). New users can register by clicking the green "Register" button, enabling them to create an account that will be securely stored in the database (see Fig. 3).
+
+Once logged in, users are redirected to the customization page, where they can select desired components for their PC and submit their configuration using the button at the bottom of the page (see Fig. 4). After finalizing their selections and submitting the order, users are taken to the checkout page, which displays the ordered items and the total price of the custom PC (see Fig. 5).
 
 ![screenshot](images/CCImages/WelcomePage.png)  
 Fig 1. Home Page
@@ -46,7 +46,7 @@ Fig 5. Checkout Page
 
 ## 3. Additional Considerations
 
-Users must be logged in to customize and place an order for a PC. There is a forgot password option available on the login page that will email the user a password reset. All parts are web-scraped from Amazon and/or New Egg. 
+To customize and place an order for a PC, users are required to log in. The login page includes a "Forgot Password" option, which allows users to request a password reset email for account recovery. All components are sourced through web scraping from reputable retailers such as Amazon and Newegg.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
