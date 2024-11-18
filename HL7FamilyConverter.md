@@ -15,17 +15,17 @@ This tool processes HL7/XML files representing a patient's family relationships,
 
 ## How to run the program (Windows)
 1) Go to the [Releases](https://github.com/AlexThomp1/HL7FamilyTreeConverter/releases) section of this page
-2) Download "HL7.Family.Tree.Converter.v1.0.Windows.exe" 
-2.1) If Windows states the file is not secure, click "More Info" at the bottom, and click "Run Anyway" 
-3) The program is now usable
+2) Download "HL7.Family.Tree.Converter.v1.0.Windows.exe"
+3) If Windows states the file is not secure, click "More Info" at the bottom, and click "Run Anyway" 
+4) The program is now usable
 
 ## How to run the program (Mac, Linux, etc.)
 1) Go to the [Releases](https://github.com/AlexThomp1/HL7FamilyTreeConverter/releases) section of this page
 2) Download "HL7.Family.Tree.Converter.v1.0.Other.jar" 
 3) Ensure you have the latest version of Java installed 
-3.1) If Java is not installed, install it here based on your system: [Java Installation Link](https://www.java.com/en/download/manual.jsp)
-4) Open the downloaded file
-5) The program is now usable
+4) If Java is not installed, install it here based on your system: [Java Installation Link](https://www.java.com/en/download/manual.jsp)
+5) Open the downloaded file
+6) The program is now usable
 
 ## [Click Here for the Video Guide](https://www.youtube.com/watch?v=darrJ0l5nAI)
 
