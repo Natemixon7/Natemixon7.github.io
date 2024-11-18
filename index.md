@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [CrowdControl](/pdf/FirewallsandACLs.pdf)
+### [Firewalls and ACLs](/pdf/FirewallsandACLs.pdf)
 
 - **Class:** CSCI 352
 - **Grade:** A
 
 
-### [Advanced Calculator 3000](/pdf/Heartland.pdf)
+### [Heartland Security Breach](/pdf/Heartland.pdf)
 
 - **Class:** CSCI 405
 - **Grade:** A
