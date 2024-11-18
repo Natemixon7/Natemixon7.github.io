@@ -48,7 +48,7 @@ Fig 7. Help instructions.
 
 ## 3. Additional Considerations
 
-This program was done completely in Java as a group project. It features math anywhere from basic to advanced. Adding additional operations or calculators would be quick and easy.
+This program, developed entirely in Java as part of a group project, encompasses a wide range of mathematical operations, from basic to advanced. Its modular design allows for the seamless addition of new operations or calculators, ensuring scalability and ease of enhancement.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
