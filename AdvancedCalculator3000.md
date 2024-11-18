@@ -23,7 +23,7 @@ click run (play button) in top right of VS code
 
 ## UI Design
 
-Once the calculator is run it will display the welcome screen. There you have 4 different types of calculators to choose from (see Fig 1). The first calculator is the arithmetic and it has 5 different types of math you can perform on the 2 numbers the user inputs (see Fig 2). Users can go back to the beginning anytime by typing 'q' (see Fig 3). The next calculator is the algebra calculator. It has 4 different operations the user can select after typing in their quadratic equation (see Fig 4). The third calculator is the geometric calculator where users will be prompted to enter a shape to perform a selected number of operations based on the shape (see Fig 5). At any point during one of the selected calculators, the user can input 'h' to receive more specific instructions to guide them (see Fig 6). The last calculator is trigonometry and has 7 different operations such as converting degrees to radians and finding the missing angles of a triangle (see Fig 7).
+When the calculator is launched, the welcome screen offers four types of calculators to choose from (see Fig. 1). The Arithmetic Calculator allows users to perform five different mathematical operations on two input numbers, with the option to return to the main menu by typing 'q' (see Figs. 2 and 3). The Algebra Calculator supports four operations, which users can select after entering a quadratic equation (see Fig. 4). The Geometry Calculator prompts users to specify a shape and perform various operations based on the selected shape (see Fig. 5). The Trigonometry Calculator provides seven operations, including converting degrees to radians and calculating missing angles of a triangle (see Fig. 6). At any point while using a calculator, users can type 'h' to access detailed instructions for guidance (see Fig. 7).
 
 ![screenshot](images/CalcImages/Welcome.png)  
 Fig 1. Welcome screen.
@@ -40,11 +40,11 @@ Fig 4. Algebra options.
 ![screenshot](images/CalcImages/Geo.png)  
 Fig 5. Geometry options.
 
-![screenshot](images/CalcImages/Help.png)  
-Fig 6. Help instructions.
-
 ![screenshot](images/CalcImages/Trig.png)  
-Fig 7. Trigonometry options.
+Fig 6. Trigonometry options.
+
+![screenshot](images/CalcImages/Help.png)  
+Fig 7. Help instructions.
 
 ## 3. Additional Considerations
 
