@@ -11,7 +11,7 @@ HL7 Family Tree Converter
 
 ## Project description
 
-A tool that takes users' HL7/XML files that represent a patient's family relationships and then is able to export new XML/HL7 files based on any added patients or reorientation of the data. This tool is most helpful for medical staff trying to generate genealogy trees for their patients. This allows them to reuse XML/HL7 files without having to create new ones manually. It also comes with features for adjusting each person's data such as the date of their passing, relationship code, and age.  
+This tool processes HL7/XML files representing a patient's family relationships, enabling users to export updated XML/HL7 files that reflect added patients or restructured data. It is particularly beneficial for medical staff tasked with generating genealogy trees and streamlining workflows by allowing the reuse of existing XML/HL7 files without the need for manual file creation. The tool also includes features for modifying individual data, such as date of passing, relationship codes, and age, ensuring accuracy and flexibility in managing patient information.
 
 ## How to run the program
 
@@ -37,7 +37,7 @@ Fig 3. Export menu
 
 ## 3. Additional Considerations
 
-This tool only works for XML/HL7 files. It will not overwrite your original files and will generate new files instead.
+This tool only works for XML/HL7 files. It will not overwrite original files and instead generate new files.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
