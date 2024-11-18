@@ -6,8 +6,8 @@ Advanced Calculator 3000
 -   **Class:** CSCI 325
 -   **Grade:** A
 -   **Language(s):** Java
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [Natemixon7/AdvancedCalculator3000](https://github.com/Natemixon7/AdvancedCalculator3000)  
+    (Please [email me](mailto:NRMixon@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
