@@ -6,12 +6,12 @@ Large Map
 -   **Class:** CSCI 315
 -   **Grade:** B+
 -   **Language(s):** C++
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [Natemixon7/Map](https://github.com/Natemixon7/Map)  
     (Please [email me](mailto:NRMixon@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-This program maps student's first and last names to a nonnegative 32-bit integer. To ensure searching and removing can be done efficiently, the vector is sorted as the names are added. Binary search is used to efficiently find keys in order to add and remove keys. 
+This program assigns a unique nonnegative 32-bit integer to each student's first and last name. To optimize search and removal operations, the data is stored in a sorted vector, with names being inserted in sorted order. A binary search algorithm is utilized to efficiently locate keys for adding or removing entries. A standout feature of this program is the howMany() function, which enables quick retrieval of the count of names matching a user-specified criterion. For instance, if a user searches for names starting with "Jo," the function would return 3 if the dataset includes "John," "Jonah," and "Jonathan."
 
 ## How to compile and run the program
 
