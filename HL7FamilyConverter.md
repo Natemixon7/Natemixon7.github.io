@@ -14,18 +14,24 @@ HL7 Family Tree Converter
 This tool processes HL7/XML files representing a patient's family relationships, enabling users to export updated XML/HL7 files that reflect added patients or restructured data. It is particularly beneficial for medical staff tasked with generating genealogy trees and streamlining workflows by allowing the reuse of existing XML/HL7 files without the need for manual file creation. The tool also includes features for modifying individual data, such as date of passing, relationship codes, and age, ensuring accuracy and flexibility in managing patient information.
 
 ## How to run the program (Windows)
+
+```bash
 1) Go to the [Releases](https://github.com/AlexThomp1/HL7FamilyTreeConverter/releases) section of this page
 2) Download "HL7.Family.Tree.Converter.v1.0.Windows.exe"
 3) If Windows states the file is not secure, click "More Info" at the bottom, and click "Run Anyway" 
 4) The program is now usable
+```
 
 ## How to run the program (Mac, Linux, etc.)
+
+```bash
 1) Go to the [Releases](https://github.com/AlexThomp1/HL7FamilyTreeConverter/releases) section of this page
 2) Download "HL7.Family.Tree.Converter.v1.0.Other.jar" 
 3) Ensure you have the latest version of Java installed 
 4) If Java is not installed, install it here based on your system: [Java Installation Link](https://www.java.com/en/download/manual.jsp)
 5) Open the downloaded file
 6) The program is now usable
+```
 
 ## [Click Here for the Video Guide](https://www.youtube.com/watch?v=darrJ0l5nAI)
 
