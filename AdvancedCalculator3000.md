@@ -25,25 +25,25 @@ click run (play button) in top right of VS code
 
 Once the calculator is run it will display the welcome screen. There you have 4 different types of calculators to choose from (see Fig 1). The first calculator is the arithmetic and it has 5 different types of math you can perform on the 2 numbers the user inputs (see Fig 2). Users can go back to the beginning anytime by typing 'q' (see Fig 3). The next calculator is the algebra calculator. It has 4 different operations the user can select after typing in their quadratic equation (see Fig 4). The third calculator is the geometric calculator where users will be prompted to enter a shape to perform a selected number of operations based on the shape (see Fig 5). At any point during one of the selected calculators, the user can input 'h' to receive more specific instructions to guide them (see Fig 6). The last calculator is trigonometry and has 7 different operations such as converting degrees to radians and finding the missing angles of a triangle (see Fig 7).
 
-![screenshot](CalcImages/Welcome.png)  
+![screenshot](Images/CalcImages/Welcome.png)  
 Fig 1. Welcome screen.
 
-![screenshot](CalcImages/arithmetic.png)  
+![screenshot](Images/CalcImages/arithmetic.png)  
 Fig 2. Arithmetic options.
 
-![screenshot](CalcImages/Complete.png)  
+![screenshot](Images/CalcImages/Complete.png)  
 Fig 2. Return to select calculator.
 
-![screenshot](CalcImages/Algebra.png)  
+![screenshot](Images/CalcImages/Algebra.png)  
 Fig 4. Algebra options.
 
-![screenshot](CalcImages/Geo.png)  
+![screenshot](Images/CalcImages/Geo.png)  
 Fig 5. Geometry options.
 
-![screenshot](CalcImages/Help.png)  
+![screenshot](Images/CalcImages/Help.png)  
 Fig 6. Help instructions.
 
-![screenshot](CalcImages/Trig.png)  
+![screenshot](Images/CalcImages/Trig.png)  
 Fig 7. Trigonometry options.
 
 ## 3. Additional Considerations
