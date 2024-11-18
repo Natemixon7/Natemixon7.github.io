@@ -51,15 +51,15 @@ Ethics Papers
 Presentations
 -------------
 
-### [CrowdControl](/pdf/CrowdControl.pdf)
+### [CrowdControl](/pdf/Firewalls and ACLs.pdf)
 
-- **Class:** CSCI 499
+- **Class:** CSCI 352
 - **Grade:** A
 
 
-### [Advanced Calculator 3000](https://youtu.be/Y4LqBPU5FbU)
+### [Advanced Calculator 3000](/pdf/Heartland.pdf)
 
-- **Class:** CSCI 325
+- **Class:** CSCI 405
 - **Grade:** A
 
 ---
