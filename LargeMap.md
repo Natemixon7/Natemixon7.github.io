@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Large Map
+Map
 ===============
 
 -   **Class:** CSCI 315
