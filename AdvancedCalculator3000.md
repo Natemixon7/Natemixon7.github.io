@@ -11,11 +11,9 @@ Advanced Calculator 3000
 
 ## Project description
 
-The calculator is an advanced math calculator with a wide variety of math problems that can be solved with just a few inputs from the user. The calculator does all the work by taking the user's input based on what type of math and function they selected at the start-up menu. These types include arithmetic, algebra, trigonometry, and geometry. After the user makes their selection, the program will then prompt the user to enter the necessary inputs to solve their problem.
+This advanced mathematical calculator is designed to solve a wide range of problems with minimal input from the user. It operates by guiding users through a streamlined process based on the type of mathematical function selected from the start-up menu. Available options include arithmetic, algebra, trigonometry, and geometry. Once a selection is made, the calculator prompts the user to provide the required inputs and performs the computations to deliver accurate solutions efficiently.
 
 ## How to compile and run the program
-
-How to compile (if applicable) and run the project.
 
 ```bash
 cd ./project
