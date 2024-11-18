@@ -6,7 +6,7 @@ CrowdControl
 -   **Class:** CSCI 499
 -   **Grade:** A
 -   **Language(s):** Python, HTML, PHP, CSS, MySQL, JavaScript
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [Natemixon7/CrowdControl](https://github.com/Natemixon7/CrowdControl)  
     (Please [email me](mailto:NRMixon@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
