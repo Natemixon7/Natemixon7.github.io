@@ -6,12 +6,12 @@ HL7 Family Tree Converter
 -   **Class:** CSCI 495
 -   **Grade:** A
 -   **Language(s):** Java, XML, HL7
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [Natemixon7/HL7FamilyConverter](https://github.com/Natemixon7/HL7FamilyTreeConverter)  
     (Please [email me](mailto:NRMixon@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-A tool that can read HL7/XML files that represent patient data that will visualize family relationships in a list format and allow the users to choose the family member, which the program will re-orient the data for the changed member.
+A tool that takes users' HL7/XML files that represent a patient's family relationships and then is able to export new XML/HL7 files based on any added patients or reorientation of the data. This tool is most helpful for medical staff trying to generate genealogy trees for their patients. This allows them to reuse XML/HL7 files without having to create new ones manually. It also comes with features for adjusting each person's data such as the date of their passing, relationship code, and age.  
 
 ## How to run the program
 
